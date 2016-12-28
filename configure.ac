@@ -480,7 +480,6 @@ merlinmusicplayer/meta/Makefile
 merlinmusicplayer/po/Makefile
 merlinmusicplayer/src/Makefile
 merlinmusicplayer/src/images/Makefile
-merlinmusicplayer/src/merlinmp3player/Makefile
 
 mosaic/Makefile
 mosaic/meta/Makefile
@@ -587,6 +586,7 @@ permanentclock/Makefile
 permanentclock/meta/Makefile
 permanentclock/po/Makefile
 permanentclock/src/Makefile
+permanentclock/src/trad/Makefile
 
 pipservicerelation/Makefile
 pipservicerelation/src/Makefile
